@@ -1,0 +1,61 @@
+/* 
+Authors: Zach Winans
+*/
+
+h1 {
+	display: block;
+	font-family: Apple Chancery, cursive;
+	text-align: center;
+}
+
+a {
+	margin-left: 10px;
+}
+
+.author {
+	margin-left: 8px;
+}
+
+.container {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 550px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+}
+
+.registerContainer {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 225px;
+	height: 140px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+}
+
+.addQuoteContainer {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 423px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+	
+}
+
+.error {
+	position: absolute;
+	margin-top: 145px;
+	margin-left: 10px;
+	font-size: 8pt;
+	color: red;
+	
+}
